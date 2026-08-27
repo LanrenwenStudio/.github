@@ -36,8 +36,8 @@
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://englishcc.com">
-        <img src="../assets/profile-apps/englishcc.png" width="76" height="76" alt="English CC icon"><br><br>
-        <code>English CC</code>
+        <img src="../assets/profile-apps/englishcc.png" width="76" height="76" alt="EnglishCC icon"><br><br>
+        <code>EnglishCC</code>
       </a>
       <br><br>
       <sub>
