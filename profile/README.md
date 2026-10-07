@@ -13,7 +13,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%" valign="top">
-      <a href="https://lanrenwenstudio.github.io/keylaunch-site/">
+      <a href="https://keylaunch.lanrenwen.com/">
         <img src="../assets/profile-apps/keylaunch.png" width="76" height="76" alt="KeyLaunch icon"><br><br>
         <code>KeyLaunch (键启)</code>
       </a>
@@ -24,7 +24,7 @@
       </sub>
     </td>
     <td align="center" width="20%" valign="top">
-      <a href="https://lanrenwenstudio.github.io/pauseloop-site/">
+      <a href="https://pauseloop.lanrenwen.com/">
         <img src="../assets/profile-apps/pauseloop.png" width="76" height="76" alt="PauseLoop icon"><br><br>
         <code>PauseLoop</code>
       </a>
@@ -46,7 +46,7 @@
       </sub>
     </td>
     <td align="center" width="20%" valign="top">
-      <a href="https://lanrenwenstudio.github.io/side-stash/">
+      <a href="https://sidestash.lanrenwen.com/">
         <img src="../assets/profile-apps/side-stash.png" width="76" height="76" alt="Side Stash icon"><br><br>
         <code>Side Stash</code>
       </a>
@@ -57,14 +57,14 @@
       </sub>
     </td>
     <td align="center" width="20%" valign="top">
-      <a href="https://lanrenwenstudio.github.io/highlight-share-site/">
-        <img src="../assets/profile-apps/highlight-share.png" width="76" height="76" alt="Highlight Share icon"><br><br>
-        <code>Highlight Share</code>
+      <a href="https://xtoeagle.lanrenwen.com/">
+        <img src="../assets/profile-apps/x-to-eagle.png" width="76" height="76" alt="X to Eagle icon"><br><br>
+        <code>X to Eagle</code>
       </a>
       <br><br>
       <sub>
-        Highlight & Card Exporter<br>
-        划词高亮生成分享
+        X Media & Prompt Exporter<br>
+        推文素材与灵感保存
       </sub>
     </td>
   </tr>
